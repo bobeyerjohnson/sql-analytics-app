@@ -1,4 +1,4 @@
-# reat SQL analytics app
+# Great SQL analytics app
 
 ## How to install the app
 
